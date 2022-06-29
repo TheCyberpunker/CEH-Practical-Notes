@@ -3,11 +3,11 @@ Minimalist notes for CEH-practical Cert.
 
 # CEH v11 **Course contents**
 - [ ] Module 01: Introduction to Ethical Hacking  
-- [ ] Module 02: Footprinting and Reconnaissance [[1 - Footprinting and Recconnaissance]]
-- [ ] Module 03: Scanning Networks [[2 - Scanning Networks]]
-- [ ] Module 04: Enumeration [[3 - Enumeration]]
-- [ ] Module 05: Vulnerability Analysis [[4 - Vulnerability Analysis]]
-- [ ] Module 06: System Hacking [[5 - System Hacking]]
+- [ ] Module 02: Footprinting and Reconnaissance
+- [ ] Module 03: Scanning Networks 
+- [ ] Module 04: Enumeration 
+- [ ] Module 05: Vulnerability Analysis 
+- [ ] Module 06: System Hacking 
 - [ ] Module 07: Malware Threats  
 - [ ] Module 08: Sniffing  
 - [ ] Module 09: Social Engineering  
@@ -22,9 +22,9 @@ Minimalist notes for CEH-practical Cert.
 - [ ] Module 18: IoT Hacking  
 - [ ] Module 19: Cloud Computing  
 - [ ] Module 20: Cryptography
-- [ ] Module 21: Examples [[6 - Examples - CEH - PRACTICAL]]
-- [ ] Module 22: Commands - tips - tools [[7 - Commands, Tips, Tools - CEHP]]
-- [ ] Module 23: CEH - My methology [[8 - CEH-methology]]
+- [ ] Module 21: [Examples](https://github.com/TheCyberpunker/CEH-Practical-Notes/blob/main/6%20-%20Examples%20-%20CEH%20-%20PRACTICAL.md)
+- [ ] Module 22: [Commands, Tips, Tools - CEHP](https://github.com/TheCyberpunker/CEH-Practical-Notes/blob/main/7%20-%20Commands%2C%20Tips%2C%20Tools%20-%20CEHP.md)
+- [ ] Module 23: [CEH-Notes](https://github.com/TheCyberpunker/CEH-Practical-Notes/blob/main/8%20-%20CEH-Notes.md)
 
 # What is an Ethical Hacker?
 
