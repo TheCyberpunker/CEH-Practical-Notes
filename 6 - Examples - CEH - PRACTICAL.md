@@ -1,0 +1,34 @@
+#### Examples:
+- [ ] Find service and detect the OS? - nmap, ping, wireshark
+- [ ] What is the password for user X of the FTP server? metasploit, hydra
+- [ ] Which user X's phone number? - wireshark(pcap), imagen, user enumeration, SSRF,
+- [ ] What is the password hidden in the .jpeg file? steghide, hexdump
+- [ ] What is the hidden message in the .txt file? steghide, file (terminal)
+- [ ] Find X from .pcap file - wireshark
+- [ ] Crack X user hash - jhontheriper, hashcat- hash-identifier, hashid,
+- [ ] what hash has the document x
+- [ ] Que puertos tiene la maquina con ip 192... ?
+- [ ] Que maquina tiene puertos por defecto? (los puertos por defecto son 21 22 80 8080 443 53 - investigar, default port are 80 htttp, 443 https, netbios 139, smb 445, 3386 rdp
+- [ ] Que tipo de encriptacion usa el archivo o el hash (X)?
+- [ ] Que plugins tiene la pagina web (Wordpress)? wpscan
+- [ ] Que usuarios tiene la pagina web (Wordpress)? wpscan -crack
+- [ ] Que usuario es valido al usar fuerza bruta (ellos mismos darian el diccionario)?
+- [ ] Que base de datos tiene la pagina? sqlmap
+- [ ] Que tablas o columnas tiene la base de datos (x)?
+- [ ] Que info tiene el usuario (x) ?- esto lo veo como SSRF ejemplo id=1 id=2
+- [ ] Que ip envio un correo electronico (preguntas para wireshark pcap)
+- [ ] aprender a filtrar en wireshark.
+- [ ] Que usuario o contrasena se encuentran en el archivo? (filtrar por post id user pass)
+- [ ] Que sistema operativo tiene la maquina
+- [ ] Que servicio tiene puertos por defecto 21 ssh 8080 446 53
+- [ ] Find the machines running MSSQL ?  
+- [ ] Find the machines running Remote Desktop ?  
+- [ ] Find DOS attacker ips from pcap file ?  
+- [ ] Identify modifed text files , (hint : check integrity)  
+- [ ] Crack MD5 Hashes.  
+- [ ] Find attacker's username from machine?  
+- [ ] Find contact details of Jenny ? (hint : dump the table using sqlmap)  
+- [ ] Find username password ? (hint : Bruteforce using wpscan)  
+- [ ] Use hydra to crack password  
+- [ ] Gui RATs tools  
+- [ ] 4 - 5 problems on cryptography and steganography. Prepare all the Windows Gui tools from cryptography section. practice system exploitation using metasploit.
