@@ -15,9 +15,9 @@ CEH
 - [x] Covering Tracks
 
 #### Online Resources
-- [videos - mega](https://mega.nz/folder/mOQTSCQS#NhXNE3XlL6fkGun83Yjwcw)
+
 - [Ethical hacking labs writeup - git ](https://github.com/Samsar4/Ethical-Hacking-Labs)
-- [Meet -CEHv11 lab videos](https://meet.runitcr.com/b/ste-j10-2sr-7l9?page=1#recordings-table)
+
 
 #### Enumeration
 #### host enumation
